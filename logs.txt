@@ -1,0 +1,27 @@
+[2025-06-12 13:18:09] default added  "google.com",
+ "www.google.com",
+ "google",
+ "youtube",
+ "youtube.com",
+ "www.youtube.com",
+ "facebook",
+ "facebook.com",
+ "www.facebook.com",
+ "instagram",
+ "instagram.com",
+ "www.instagram.com",
+ "twitter",
+ "twitter.com",
+ "www.twitter.com",
+ "tiktok",
+ "tiktok.com",
+ "www.tiktok.com",
+ "reddit",
+ "reddit.com",
+ "www.reddit.com",
+[2025-06-12 13:18:34] default started block for 5 minutes
+[2025-06-12 13:23:34] Unblocked all sites
+[2025-06-12 13:25:36] GUI customized: font size 20, color red
+[2025-06-12 13:26:06] GUI customized: font size 15, color yellow
+[2025-06-12 13:26:31] GUI customized: font size 13, color beige
+[2025-06-12 13:26:49] GUI customized: font size 13, color purple
