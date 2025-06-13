@@ -1,6 +1,5 @@
-*.py linguist-detectable=true
 *.tex linguist-detectable=false
-*.html linguist-detectable=false
 *.log linguist-detectable=false
 *.aux linguist-detectable=false
 *.out linguist-detectable=false
+*.html linguist-detectable=false
