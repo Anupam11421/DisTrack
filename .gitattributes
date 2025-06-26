@@ -1,5 +1,4 @@
-*.tex linguist-detectable=false
-*.log linguist-detectable=false
-*.aux linguist-detectable=false
-*.out linguist-detectable=false
-*.html linguist-detectable=true
+*.py linguist-detectable=true
+*.md linguist-detectable=false
+README.md linguist-language=Markdown
+build/app/** linguist-detectable=false
